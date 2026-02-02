@@ -1,5 +1,5 @@
 return {
-    name = "cake-d3v/discorddotlua",
+    name = "Cake/discorddotlua",
     version = "0.1.0",
     description = "A lightweight Discord API library for the Luvit runtime",
     tags = { "discord", "api", "bot", "luvit", "lua" },
@@ -15,4 +15,5 @@ return {
         "**.lua"
     }
 }
+
 
