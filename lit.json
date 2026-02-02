@@ -1,0 +1,8 @@
+{
+  "name": "Cake/discorddotlua",
+  "version": "1.0.0",
+  "description": "A Discord API wrapper for Lua",
+  "main": "init.lua",
+  "tags": ["discord", "api", "lua"],
+  "license": "MIT"
+}
