@@ -1,5 +1,5 @@
 {
-  "name": "Cake/discorddotlua",
+  "name": "cake-d3v/discorddotlua",
   "version": "1.0.0",
   "description": "A Discord API wrapper for Lua",
   "main": "init.lua",
