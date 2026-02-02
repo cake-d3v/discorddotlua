@@ -1,4 +1,4 @@
-The MIT License (MIT)
+--[[The MIT License (MIT)
 
 Copyright (c) 2016-2025 SinisterRectus
 
@@ -18,4 +18,19 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE.]]
+
+return {
+	name = 'Cake/discord.lua',
+	version = '0.1.0',
+	homepage = 'https://github.com/cake-d3v/discorddotlua/tree/main',
+	dependencies = {
+		'luvit/coro-http@3.2.4',
+		'luvit/coro-websocket@3.1.1',
+		'luvit/secure-socket@1.2.4',
+	},
+	tags = {'discord', 'api'},
+	license = 'MIT',
+	author = 'Sinister Rectus',
+	files = {'**.lua'},
+}
