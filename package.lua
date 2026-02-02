@@ -21,7 +21,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.]]
 
 return {
-	name = 'Cake/discorddotlua',
+	name = 'cake-d3v/discorddotlua',
 	version = '0.1.0',
 	homepage = 'https://github.com/cake-d3v/discorddotlua/tree/main',
 	dependencies = {
